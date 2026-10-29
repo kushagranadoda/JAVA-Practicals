@@ -1,0 +1,3 @@
+Server started
+ERROR: File not found
+User logged out

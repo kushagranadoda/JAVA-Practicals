@@ -1,0 +1,17 @@
+FILE TREE REPORT
+================
+Name: notes.txt
+Size: 18 bytes
+Modified: 28-10-2026 11:25:07
+------------------------
+Name: subfolder\data.txt
+Size: 22 bytes
+Modified: 28-10-2026 11:25:07
+------------------------
+Name: subfolder\info.txt
+Size: 16 bytes
+Modified: 28-10-2026 11:25:07
+------------------------
+
+Total files: 3
+Total size: 56 bytes

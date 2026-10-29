@@ -1,0 +1,4 @@
+Application started
+User logged in
+ERROR: Database connection failed
+Application closed

@@ -1,0 +1,3 @@
+System running normally
+User logged in
+ERROR: Network timeout
